@@ -2,6 +2,12 @@
 
 Uma aplicação interativa para explorar e coletar figurinhas de seleções de futebol do mundo, desenvolvida com **React 19**, **Tailwind CSS 4** e integrada com a **API-Football**.
 
+## 🌐 Visualizar o Projeto
+
+**Link do Projeto em Produção**: https://3000-ibdsq11zvpn3n151xq826-b768460f.us3.manus.computer
+
+**Repositório GitHub**: https://github.com/eduardac-campos/album-figurinhas
+
 ## 📋 Visão Geral
 
 Este projeto implementa um álbum digital de figurinhas das seleções de futebol, permitindo aos usuários selecionar um país e visualizar o elenco completo de jogadores com suas fotos, números e posições.
